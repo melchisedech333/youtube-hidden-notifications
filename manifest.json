@@ -14,9 +14,12 @@
         }
     ],
     "permissions": [
-        "tabs", 
-        "https://*/*"
-    ]
+        "tabs",
+        "activeTab",
+    ],
+    "host_permissions": [
+        "http://*.youtube.com/"
+    ],
 }
 
 
