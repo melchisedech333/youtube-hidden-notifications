@@ -1,0 +1,25 @@
+{
+  "name": "YouTube Hidden Notifications",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "YouTube Hidden Notifications",
+  "content_scripts": [
+      {
+          "matches": [
+              "*://*/*"
+          ],
+          "js": [
+              "background.js"
+          ]
+      }
+  ],
+  "permissions": [
+      "https://*.youtube.com/*",
+      "tabs"
+  ],
+  "web_accessible_resources": [
+      "inject.js"
+  ]
+}
+
+
