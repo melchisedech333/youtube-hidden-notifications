@@ -6,7 +6,7 @@
         return;
     }
 
-	console.log("Cristo <3");
+	console.log("YouTube Hidden Notifications Started - Cristo <3");
 
 	// Hidden notifications.
 	var intervalNotificationsRunning = false;
