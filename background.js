@@ -24,8 +24,8 @@
 					console.log("Notifications hidden!");
 
 					// Hidden others ícones.
-					var elsb = document.querySelectorAll('.style-scope ytd-topbar-menu-button-renderer');
-					elsb[1].style.display = 'none';
+					// var elsb = document.querySelectorAll('.style-scope ytd-topbar-menu-button-renderer');
+					// elsb[1].style.display = 'none';
 				}
 			}
 
