@@ -9,9 +9,9 @@
 
 Language: <a href="readme-pt.md">PT-BR</a>
 
-Every time I see a notification, I run towards it like a mental patient to click on it. So to not waste time clicking on them, I made this extension for Google Chrome that does this for me 😊
+Every time I see a notification, I run towards it like a mental patient to click on it. So to not waste time clicking on them, I made this extension for Google Chrome that does this for me 🙃
 
-The cool thing is that I can keep getting some notifications configured in my gmail, and I keep my YouTube browsing clean.
+The cool thing is that I can keep getting some notifications configured in my Gmail (I rarely read this shit), and I keep my YouTube browsing clean.
 
 It hides the notification icon in the top bar of the page. And removes the notification counter from the page title.
 
