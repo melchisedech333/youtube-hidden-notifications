@@ -7,6 +7,19 @@
 
 <br>
 
+<p align="center">
+    <a href="https://github.com/sponsors/melchisedech333"><img src="https://img.shields.io/badge/patrocinar-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" ></a>
+    <br><br>
+    <img src="https://badgen.net/badge/nível de amor/8 de 10/purple" >
+    <img src="https://img.shields.io/github/languages/count/melchisedech333/youtube-hidden-notifications?color=%23f34b7d&label=linguagens" >
+    <img src="https://img.shields.io/github/languages/top/melchisedech333/youtube-hidden-notifications?color=%23f34b7d" >
+    <img src="https://img.shields.io/github/directory-file-count/melchisedech333/youtube-hidden-notifications?label=arquivos" >
+    <img src="https://img.shields.io/github/repo-size/melchisedech333/youtube-hidden-notifications?label=tamanho repo" >
+    <img src="https://img.shields.io/github/license/melchisedech333/youtube-hidden-notifications?label=licen%C3%A7a" >
+</p>
+
+<br>
+
 Language: <a href="readme.md">EN-US</a>
 
 Toda vez que eu vejo uma notificação, eu saio correndo na direção dela igual um louco pra clicar. Então para não perder mais tempo fazendo isso, fiz esta extensão 🙃
